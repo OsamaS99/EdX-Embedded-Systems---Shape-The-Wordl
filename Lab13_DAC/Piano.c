@@ -5,7 +5,6 @@
 // Daniel Valvano
 // December 29, 2014
 
-// Completed by Osama Salem with a score of 100% (simulation and real board)
 
 // Port A bits 5-2 have 4 piano keys
 

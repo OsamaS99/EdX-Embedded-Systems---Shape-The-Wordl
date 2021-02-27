@@ -5,7 +5,6 @@
 // Daniel Valvano
 // December 29, 2014
 
-// Completed by Osama Salem with a score of 100% (simulation and real board)
 
 /* This example accompanies the book
    "Embedded Systems: Introduction to ARM Cortex M Microcontrollers",

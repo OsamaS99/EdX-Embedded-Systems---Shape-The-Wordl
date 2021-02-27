@@ -6,7 +6,6 @@
 // December 29, 2014
 // This routine calls the 4-bit DAC
 
-// Completed by Osama Salem with a score of 100% (simulation and real board)
 
 #include "Sound.h"
 #include "DAC.h"

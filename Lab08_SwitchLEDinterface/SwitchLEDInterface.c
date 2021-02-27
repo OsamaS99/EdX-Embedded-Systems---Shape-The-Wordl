@@ -8,7 +8,6 @@
 // January 15, 2016
 //      Jon Valvano and Ramesh Yerraballi
 
-// Completed by Osama Salem with a score of 100% (simulation and real board)
 
 // ***** 1. Pre-processor Directives Section *****
 #include "TExaS.h"

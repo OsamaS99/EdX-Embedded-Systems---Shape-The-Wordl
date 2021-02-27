@@ -7,7 +7,6 @@
 // Daniel Valvano, Jonathan Valvano
 // January 15, 2016
 
-// Completed by Osama Salem with a score of 100% (simulation and real board)
 
 // built-in connection: PF0 connected to negative logic momentary switch, SW2
 // built-in connection: PF1 connected to red LED

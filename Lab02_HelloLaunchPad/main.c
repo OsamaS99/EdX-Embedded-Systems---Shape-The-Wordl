@@ -11,7 +11,6 @@
 // Authors: Daniel Valvano, Jonathan Valvano and Ramesh Yerraballi
 // Date: January 15, 2016
 
-// Completed by Guillaume Galasso with a score of 100% (simulation and real board)
 
 // LaunchPad built-in hardware
 // SW1 left switch is negative logic PF4 on the Launchpad

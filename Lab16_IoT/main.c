@@ -41,7 +41,6 @@
  *
 */
 
-// Completed by Osama Salem with a score of 100% (simulation and real board)
 
 
 /*

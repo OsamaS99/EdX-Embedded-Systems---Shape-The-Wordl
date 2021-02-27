@@ -8,7 +8,6 @@
 // Nokia5110 LCD.  The display is optional.
 // January 15, 2016
 
-// Completed by Osama Salem with a score of 100% (simulation and real board)
 
 /* This example accompanies the book
    "Embedded Systems: Introduction to ARM Cortex M Microcontrollers",

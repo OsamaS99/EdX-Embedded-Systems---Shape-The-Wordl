@@ -8,7 +8,6 @@
 // Lab 9
 //      Jon Valvano and Ramesh Yerraballi
 
-// Completed by Osama Salem with a score of 100% (simulation and real board)
 
 // ***** Requirements *****
 

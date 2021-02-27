@@ -6,7 +6,6 @@
 // December 29, 2014
 // Port B bits 3-0 have the 4-bit DAC
 
-// Completed by Osama Salem with a score of 100% (simulation and real board)
 
 #include "DAC.h"
 #include "..//tm4c123gh6pm.h"
