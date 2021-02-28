@@ -1,7 +1,6 @@
 # EMBEDDED SYSTEMS - SHAPE THE WORLD
 A two-module embedded systems MOOC based on an ARM Cortex-M4F microcontroller from the University of Texas at Austin through [**edX**](https://courses.edx.org/).
 
-Date: April - Jully 2017
 
 This 16-week class is split into two 8-week classes : 
 - **UT.6.10x Embedded Systems - Shape The World: [Microcontroller Input/Output](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-10x)** includes Modules 1 to 10. \
